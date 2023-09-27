@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masaavrill
+- 👋 Hi, I’m @masathema
 - 👀 I’m interested in robotics programming, watching k-drama, eating ramen
 - 🌱 I’m currently learning python for machine learning
 - 💞️ I’m looking to collaborate on obstacle detection and multimode movements for robots
